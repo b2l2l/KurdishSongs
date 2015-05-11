@@ -12,12 +12,12 @@
 // some parts will include html codes ,keep them 
 // and someother will have stuff like "- %s" keep them too ,they are calling functions 
 //Thanks
-$LNG['user_success'] = 'User succesfully created!'; 
-$LNG['user_exists'] = 'This username already exists.';
-$LNG['email_exists'] = 'This e-mail is already in use.';
-$LNG['all_fields'] = 'All fields are required!';
-$LNG['user_alnum'] = 'The username must consists only from letters and numbers.';
-$LNG['user_too_short'] = 'The username must be between 3 and 32 characters.';
+$LNG['user_success'] =  'بەکار‌هێنەر بە سەرکەوتوویی درووست بوو';
+$LNG['user_exists'] = 'ئەم بەکارهێنەرە پێشتر ناوی تۆمارکردووە';
+$LNG['email_exists'] = 'ئەم ئیمەیڵە پێشتر بەکارهاتووە'؛
+$LNG['all_fields'] = 'All fields are required!'; 
+$LNG['user_alnum'] = 'نازناو دەبێت تەنها لە پیت و ژمارە پێک بێت'؛
+$LNG['user_too_short'] = 'The username must be between 3 and 32 characters.'; 
 $LNG['user_limit'] = 'Too many accounts created from this IP';
 $LNG['invalid_email'] = 'Invalid e-mail!';
 $LNG['invalid_user_pw'] = 'Invalid username or password.';
@@ -52,7 +52,7 @@ $LNG['all_rights_reserved'] = 'All rights reserved';
 
 // NOTIFICATION BOXES //
 $LNG['settings_saved'] = 'Settings Saved';
-$LNG['password_changed'] = 'Password Changed';
+$LNG['password_changed'] = 'Password Changed'; 
 $LNG['nothing_changed'] = 'Nothing Changed';
 $LNG['password_not_changed'] = 'Your password was not changed.';
 $LNG['image_saved'] = 'Image Saved';
@@ -866,8 +866,8 @@ $LNG['title_notifications'] = 'Notifications';
 $LNG['title_admin']	= 'Admin';
 $LNG['on'] = 'On';
 $LNG['off'] = 'Off';
-$LNG['no'] = 'No';
-$LNG['yes'] = 'Yes';
+$LNG['no'] = 'نەخێر';
+$LNG['yes'] = 'بەڵێ';
 $LNG['none'] = 'None';
 $LNG['add'] = 'Add';
 $LNG['save'] = 'Save';
@@ -885,30 +885,30 @@ $LNG['popular_song'] = 'Popular song';
 $LNG['go_pro'] = 'Go Pro';
 $LNG['edit'] = 'Edit';
 $LNG['upload'] = 'Upload';
-$LNG['search_for_people'] = 'Search...';
+$LNG['search_for_people'] = 'گەڕان...';
 $LNG['privacy_policy'] = 'Privacy Policy';
 $LNG['terms_of_use'] = 'Terms of Use';
 $LNG['about'] = 'About';
 $LNG['disclaimer'] = 'Disclaimer';
-$LNG['contact'] = 'Contact';
+$LNG['contact'] = 'پەیوەندی';
 $LNG['api_documentation'] = 'API Documentation';
 $LNG['developers'] = 'Developers';
-$LNG['language'] = 'Language';
+$LNG['language'] = 'زمان';
 
 // MONTHS
-$LNG['month'] = 'Month';
-$LNG['year'] = 'Year';
-$LNG['day'] = 'Day';
-$LNG['month_1'] = 'January';
-$LNG['month_2'] = 'February';
-$LNG['month_3'] = 'March';
-$LNG['month_4'] = 'April';
-$LNG['month_5'] = 'May';
-$LNG['month_6'] = 'June';
-$LNG['month_7'] = 'July';
-$LNG['month_8'] = 'August';
-$LNG['month_9'] = 'September';
-$LNG['month_10'] = 'October';
-$LNG['month_11'] = 'November';
-$LNG['month_12'] = 'December';
+$LNG['month'] =  'مانگ';
+$LNG['year'] = 'ساڵ';
+$LNG['day'] = 'رۆژ';
+$LNG['month_1'] = 'کانونی دووەم';
+$LNG['month_2'] = 'شوبات';
+$LNG['month_3'] = 'ئازار';
+$LNG['month_4'] = 'نیسان';
+$LNG['month_5'] = 'ئایار';
+$LNG['month_6'] = 'حوزەیران';
+$LNG['month_7'] = 'تەموز';
+$LNG['month_8'] = 'ئاب';
+$LNG['month_9'] = 'ئەیلول';
+$LNG['month_10'] = 'تشرینی یەکەم';
+$LNG['month_11'] = 'تشرینی دووەم';
+$LNG['month_12'] = 'کانونی یەکەم';
 ?>
